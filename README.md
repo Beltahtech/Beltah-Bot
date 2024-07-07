@@ -19,10 +19,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/beltah-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahmd?label=Followers&style=social"></a>
-<a href="https://github.com/Beltahmd/beltah-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahmd/beltah-md?&style=social"></a>
-<a href="https://github.com/Beltahmd/beltah-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahmd/beltah-md?style=social"></a>
-<a href="https://github.com/Beltahmd/beltah-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahmd/beltah-md?label=Watching&style=social"></a>
+<a href="https://github.com/Beltah-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahmd?label=Followers&style=social"></a>
+<a href="https://github.com/Beltahtech/Beltah-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-MD?&style=social"></a>
+<a href="https://github.com/Beltahtech/Beltah-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahmd/beltah-md?style=social"></a>
+<a href="https://github.com/Beltatech/Beltah-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahtech/Beltah-MD?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -38,7 +38,7 @@
   
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
+<a href="https://github.com/Beltahtech/Beltah-MD/fork"><img src="https://img.shields.io/badge/Fork%20Beltah-MD%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -61,7 +61,7 @@
 ## 4.DEPLOY BELTAH-MD (no ban) 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahmd/beltah-md&template=https://github.com/Beltahmd/beltah-md.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahtech/Beltah-MD&template=https://github.com/Beltahtech/Beltah-MD.git)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -90,8 +90,6 @@ The WhatsApp Bot 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 is released under the [MIT Li
 
 ## THANKS TO :
 
-- [**BELTAH TECH**](https://github.com/Beltahmd)
-- [**FRANCE KING**](https://github.com/franceking1)
-- [**GIFTED TECH**](https://github.com/mouricedevs)
+- [**BELTAH TECH**](https://github.com/Beltahtech)
 
-★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
+Beltahtech ©2024
