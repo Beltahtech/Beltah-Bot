@@ -1,9 +1,9 @@
 {
-  "name":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
+  "name":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 V5.0.0",
   "description":"Deploy now your 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 bot, BELTAH-MD was developed by Beltah.Make sure you fill all valuables accordingly. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-  "repository":"https://github.com/Beltahmd/beltah-md",
+  "repository":"https://github.com/Beltahtech/Beltah-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
