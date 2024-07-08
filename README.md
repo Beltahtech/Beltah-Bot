@@ -58,7 +58,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 4.DEPLOY BELTAH-MD)
+## 4.DEPLOY BELTAH-MD V5.0.0
 (No BAN)
 <h1 align="center">
  
