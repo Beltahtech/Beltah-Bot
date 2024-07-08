@@ -58,7 +58,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 4.DEPLOY BELTAH-MD) (100% safe on heroku)
+## 4.DEPLOY BELTAH-MD) (No BAN)
 <h1 align="center">
  
  ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahtech/Beltah-MD&template=https://github.com/Beltahtech/Beltah-MD.git)***
