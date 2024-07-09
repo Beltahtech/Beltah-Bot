@@ -111,6 +111,17 @@ zokou({ nomCom: "genz", reaction: "🇰🇪", nomFichier: __filename }, async (d
     //console.log("montest")
 });
 console.log("mon test");
+
+zokou({ nomCom: "data", reaction: "🎊", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+    console.log("Commande saisie !!!s");
+    let z = ' *BELTAH-MD DATA HEIST TO ALL 254 USERS*\n\n';
+    let d = '> Get free 200 mb after downloading this app from playstore.Click on the link below and download the app.\nhttps://play.google.com/store/apps/details?id=com.project.reson18&referrer=agent_code%3DUGBSWJX.\n> The app is only 8mb.Make sure you register with your Safaricom line to get the data.\n\nFeedback muhimu ndio nikuchanue na deal zingine.\n\n\n *BELTAH TECH DATA HEIST💰🤑*';
+    let varmess = z + d;
+    var img = 'https://telegra.ph/file/701e0807806f0ee9e792c.jpg';
+    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    //console.log("montest")
+});
+console.log("mon test");
 /*module.exports.commande = () => {
   var nomCom = ["test","t"]
   var reaction="☺️"
