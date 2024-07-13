@@ -48,18 +48,18 @@
   
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://beltah-bot-054eec74e93f.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://code-beltah-f2017c7e027b.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://beltah-bot-054eec74e93f.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://code-beltah-f2017c7e027b.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 4.DEPLOY BELTAH-MD V5.0.0
-(No BAN)
+(No BAN. 100% safe) 
 <h1 align="center">
  
  ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahtech/Beltah-MD&template=https://github.com/Beltahtech/Beltah-MD.git)***
