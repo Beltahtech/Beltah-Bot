@@ -3,7 +3,7 @@
   "description":"Deploy now your 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 bot, BELTAH-MD was developed by Beltah.Make sure you fill all valuables accordingly. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-  "repository":"https://github.com/Beltahtech/Beltah-MD",
+  "repository":"https://github.com/Beltahtech/Beltah-Bot",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -49,13 +49,13 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
     "HEROKU_APY_KEY": {
     "description": "insert your heroku api-key ",
-     "value":"HRKU-8c311194-cd14-430a-a93c-1cdd8b9ea8c8",
+     "",
 	"required" :true
     },
   "HEROKU_APP_NAME": {
