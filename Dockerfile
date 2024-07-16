@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Beltahtech/Beltah-MD /root/beltah
+RUN git clone https://github.com/Beltahtech/Beltah-Bot /root/beltah
 WORKDIR /root/beltah/
 
 
